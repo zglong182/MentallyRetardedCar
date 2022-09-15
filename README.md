@@ -4,12 +4,19 @@ esp8266+L298N+TT马达搭建的智能小车.控制APP使用MIT APP开发.实现�
 ###### 文件说明
 
 .
+
 ├── Arduino
+
 ├── LICENSE
+
 ├── MentallyRetardedCar-V5.0.ino 小车主程序
+
 ├── MentallyRetardedCar.jpg 接线图
+
 ├── MentallyRetardedCar2.jpg 接线图
+
 ├── NodeMCUManager2.0.aia apk 源文件
+
 └── README.md
 
 
